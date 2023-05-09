@@ -54,7 +54,7 @@ Custom branding appears after users sign in. Users that start the sign-in proces
 
 1. Sign in to the [Azure portal](https://portal.azure.com/) using a Global administrator account for the directory.
 
-2. Go to **Azure Active Directory** > **Company branding** > **Configure**.
+2. Go to **Azure Active Directory** > **User experiences** > **Company branding** > **Configure**.
 
 3. On the **Configure company branding** page, provide any or all of the following information.
 
